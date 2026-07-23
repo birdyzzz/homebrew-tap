@@ -1,6 +1,6 @@
 cask "filepilot" do
   version "1.0.0"
-  sha256 "cd5309d9853400ced5f0dac7b5a2635568a900902bed673d9be885c993c2a07c"
+  sha256 "b742e8f9b15b33d552b1994b64f5e909f775499fd9761c8ae8c28c26b2f7a298"
 
   url "https://github.com/birdyzzz/FilePilot/releases/download/v#{version}/FilePilot-#{version}-macOS.zip"
   name "FilePilot"
