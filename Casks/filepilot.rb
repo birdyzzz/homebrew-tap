@@ -7,7 +7,7 @@ cask "filepilot" do
   desc "Native macOS utility for managing file type associations"
   homepage "https://github.com/birdyzzz/FilePilot"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "FilePilot.app"
 
